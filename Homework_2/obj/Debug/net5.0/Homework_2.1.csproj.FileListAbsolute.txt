@@ -1,0 +1,16 @@
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\bin\Debug\net5.0\Homework_2.1.exe
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\bin\Debug\net5.0\Homework_2.1.deps.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\bin\Debug\net5.0\Homework_2.1.runtimeconfig.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\bin\Debug\net5.0\Homework_2.1.runtimeconfig.dev.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\bin\Debug\net5.0\Homework_2.1.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\bin\Debug\net5.0\Homework_2.1.pdb
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.csproj.AssemblyReference.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.AssemblyInfoInputs.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.AssemblyInfo.cs
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.csproj.CoreCompileInputs.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\refint\Homework_2.1.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.pdb
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\Homework_2.1.genruntimeconfig.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson2\Homework_2\Homework_2\obj\Debug\net5.0\ref\Homework_2.1.dll
